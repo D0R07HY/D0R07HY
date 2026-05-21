@@ -1,51 +1,36 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Dogsausage;Developer+%7C+Content+CyberSecurity+%7C+Instructor;Building+in+the+AI+Era+🚀;Fackbook%2B+YouTube+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Paphanthadanai+(Sin);CS+Student+%7C+Aspiring+Pentester;Focusing+on+Offensive+Security+%26+CTFs+⚔️;Systematic+thinking,+logical+execution+💻" />
 </p>
 
-<h3 align="center">🚀 Code • Teach • Scale • Repeat</h3>
+<h3 align="center">🕵️‍♂️ Learn • Hack • Secure • Repeat</h3>
 
 ---
 
 ## ⚡ About Me
-- 🇹🇭 Based in Bangkok  
-- 🎥 0+ YouTube Creator  
-- 💻 CYBER SUCUERITY & DEV  
-- 🧠 Focus: CTF • C++ • JAVA • AI Workflow 
-- 🔥 Goal: Build scalable income with tech & content  
-<img src="https://komarev.com/ghpvc/?username=ohmiler&label=Profile%20Views&color=0e75b6&style=flat" />
+- 🇹🇭 Based in Maha Sarakham, Thailand 
+- 🎓 1st-year Computer Science Student @ Mahasarakham University
+- 🛡️ **Focus:** Offensive Security, Penetration Testing, Wargames, and Nmap scanning.
+- 🚀 **Goal:** Master Red Team methodologies and pursue graduate studies in the US or Japan.  
+<br>
+<img src="https://komarev.com/ghpvc/?username=Sinxularity&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,linux,bash,git,github" />
 </p>
 
 ---
 
-## ☕ Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/milerdev" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p>
+## 🌌 Philosophy & Mindset
+> **The Cosmic Perspective:** In a vast universe, our curiosity and problem-solving give us purpose.  
+> **Analytical Thinking:** Always questioning assumptions and watching out for cognitive biases during vulnerability analysis.  
 
 ---
 
-## 🔥 Philosophy
-> Build skills that make money.  
-> Share knowledge that changes lives.  
-
----
-
-## ⚡ Mindset
-> Don’t chase jobs. Build leverage.  
-> Don’t wait for opportunities. Create them.  
-
----
-
-## 🚀 In The AI Era
-> AI won't replace developers.  
-> Developers who use AI will replace those who don’t.
+## ⚔️ In The Security Era
+> Security is never absolute.  
+> Understanding how systems break is the only way to truly understand how they work.
 
 ---
