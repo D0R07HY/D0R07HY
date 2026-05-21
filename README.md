@@ -1,16 +1,51 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Dogsausage;Developer+%7C+Content+CyberSecurity+%7C+Instructor;Building+in+the+AI+Era+🚀;Fackbook%2B+YouTube+Creator" />
+</p>
 
-<!--
-**Sinxularity/Sinxularity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Code • Teach • Scale • Repeat</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+- 🇹🇭 Based in Bangkok  
+- 🎥 0+ YouTube Creator  
+- 💻 CYBER SUCUERITY & DEV  
+- 🧠 Focus: CTF • C++ • JAVA • AI Workflow 
+- 🔥 Goal: Build scalable income with tech & content  
+<img src="https://komarev.com/ghpvc/?username=ohmiler&label=Profile%20Views&color=0e75b6&style=flat" />
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,mysql,docker,git" />
+</p>
+
+---
+
+## ☕ Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/milerdev" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 🔥 Philosophy
+> Build skills that make money.  
+> Share knowledge that changes lives.  
+
+---
+
+## ⚡ Mindset
+> Don’t chase jobs. Build leverage.  
+> Don’t wait for opportunities. Create them.  
+
+---
+
+## 🚀 In The AI Era
+> AI won't replace developers.  
+> Developers who use AI will replace those who don’t.
+
+---
