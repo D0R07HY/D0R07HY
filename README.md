@@ -10,7 +10,7 @@
 - 🇹🇭 Based in Maha Sarakham, Thailand 
 - 🎓 2st-year Computer Science Student @ Mahasarakham University
 - 🛡️ **Focus:** Offensive Security, Penetration Testing, Wargames, and Nmap scanning.
-- 🚀 **Goal:** Master Red Team methodologies and pursue graduate studies in the US or Japan.  
+- 🚀 **Goal:** Master Red Team methodologies and pursue graduate studies in the Germany
 <br>
 <img src="https://komarev.com/ghpvc/?username=Sinxularity&label=Profile%20Views&color=0e75b6&style=flat" />
 
