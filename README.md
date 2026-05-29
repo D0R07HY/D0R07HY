@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Paphanthadanai+(d0r07hy);CS+Student+%7C+Aspiring+Pentester;Focusing+on+Offensive+Security+%26+CTFs+⚔️;Systematic+thinking,+logical+execution+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Paphanthadanai+(Sin);CS+Student+%7C+Aspiring+Pentester;Focusing+on+Offensive+Security+%26+CTFs+⚔️;Systematic+thinking,+logical+execution+💻" />
 </p>
 
 <h3 align="center">🕵️‍♂️ Learn • Hack • Secure • Repeat</h3>
@@ -23,7 +23,7 @@
 - 🇹🇭 Based in Maha Sarakham, Thailand 
 - 🎓 2st-year Computer Science Student @ Mahasarakham University
 - 🛡️ **Focus:** Offensive Security, Penetration Testing, Wargames, and Nmap scanning.
-- 🚀 **Goal:** Master Red Team methodologies and pursue graduate studies in germany.
+- 🚀 **Goal:** Master Red Team methodologies and pursue graduate studies in the Germany. 
 <br>
 <img src="https://komarev.com/ghpvc/?username=Sinxularity&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -38,13 +38,7 @@
 
 ## 📦 Support My Journey
 <p align="center">
-  <a href="https://ko-fi.com/d0r07hy" target="_blank">
-    <img src="https://img.shields.io/badge/Drop%20Supplies%20📦-B026FF?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://buymeacoffee.com/d0r07hy" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20Coffee%20☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>
+  <a href="https://ko-fi.com/d0r07hy" target="_blank"><img src="https://img.shields.io/badge/Drop%20Supplies%20📦-B026FF?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"/></a> <a href="https://buymeacoffee.com/d0r07hy" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20Coffee%20☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
 </p>
 
 ---
