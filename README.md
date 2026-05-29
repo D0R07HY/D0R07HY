@@ -39,7 +39,11 @@
 ## 📦 Support My Journey
 <p align="center">
   <a href="https://ko-fi.com/d0r07hy" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20a%20Supply%20📦-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"/>
+    <img src="https://img.shields.io/badge/Drop%20Supplies%20📦-B026FF?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/d0r07hy" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20Coffee%20☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
 </p>
 
