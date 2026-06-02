@@ -21,7 +21,7 @@
 
 ## ⚡ About Me
 - 🇹🇭 Based in Maha Sarakham, Thailand 
-- 🎓 2st-year Computer Science Student @ Mahasarakham University
+- 🎓 2nd-year Computer Science Student @ Mahasarakham University
 - 🛡️ **Focus:** Offensive Security, Penetration Testing, Wargames, and Nmap scanning.
 - 🚀 **Goal:** Master Red Team methodologies and pursue graduate studies in the Germany. 
 <br>
