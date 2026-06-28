@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Paphanthadanai+(D0R07HY);CS+Student+%7C+Aspiring+Pentester;Focusing+on+Offensive+Security+%26+CTFs+⚔️;Systematic+thinking,+logical+execution+💻" />
+  <img src="./assets/rotating-text.svg" width="800" alt="Rotating introduction text for Paphanthadanai D0R07HY" />
 </p>
 
 <h3 align="center">🕵️‍♂️ Learn • Hack • Secure • Repeat</h3>

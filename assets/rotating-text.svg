@@ -1,0 +1,55 @@
+<svg width="800" height="96" viewBox="0 0 800 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rotating intro text for Paphanthadanai D0R07HY</title>
+  <desc id="desc">Animated introduction cycling through four profile headlines.</desc>
+  <defs>
+    <linearGradient id="textGradient" x1="120" y1="48" x2="680" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F7FF"/>
+      <stop offset="1" stop-color="#7CFBFF"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0 0 1 0 0 0.95 0 0 1 0 1 0 0 0 0.8 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      text {
+        fill: url(#textGradient);
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 30px;
+        font-weight: 700;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        filter: url(#softGlow);
+      }
+    </style>
+    <clipPath id="textWindow">
+      <rect x="40" y="16" width="720" height="64" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#textWindow)">
+    <g opacity="0">
+      <text x="400" y="48">Hi, I'm Paphanthadanai (D0R07HY)</text>
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;0.08;0.20;0.25;1"/>
+      <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite" values="0 16;0 0;0 0;0 -16;0 -16" keyTimes="0;0.08;0.20;0.25;1"/>
+    </g>
+    <g opacity="0">
+      <text x="400" y="48">CS Student | Aspiring Pentester</text>
+      <animate attributeName="opacity" begin="3s" dur="12s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;0.08;0.20;0.25;1"/>
+      <animateTransform attributeName="transform" begin="3s" type="translate" dur="12s" repeatCount="indefinite" values="0 16;0 0;0 0;0 -16;0 -16" keyTimes="0;0.08;0.20;0.25;1"/>
+    </g>
+    <g opacity="0">
+      <text x="400" y="48">Focusing on Offensive Security &amp; CTFs</text>
+      <animate attributeName="opacity" begin="6s" dur="12s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;0.08;0.20;0.25;1"/>
+      <animateTransform attributeName="transform" begin="6s" type="translate" dur="12s" repeatCount="indefinite" values="0 16;0 0;0 0;0 -16;0 -16" keyTimes="0;0.08;0.20;0.25;1"/>
+    </g>
+    <g opacity="0">
+      <text x="400" y="48">Systematic thinking, logical execution</text>
+      <animate attributeName="opacity" begin="9s" dur="12s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;0.08;0.20;0.25;1"/>
+      <animateTransform attributeName="transform" begin="9s" type="translate" dur="12s" repeatCount="indefinite" values="0 16;0 0;0 0;0 -16;0 -16" keyTimes="0;0.08;0.20;0.25;1"/>
+    </g>
+  </g>
+</svg>
