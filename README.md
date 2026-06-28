@@ -16,22 +16,25 @@ ______ ___________ _____  _______   ___   __
 </p>
 
 <h3 align="center">🕵️‍♂️ Learn • Hack • Secure • Repeat</h3>
+<p align="center">
+  Offensive security learner documenting the path one challenge at a time.
+</p>
 
 ---
 
 ## ⚡ About Me
-- 🇹🇭 Based in Maha Sarakham, Thailand 
-- 🎓 2nd-year Computer Science Student @ Mahasarakham University
-- 🛡️ **Focus:** Offensive Security, Penetration Testing, Wargames, and Nmap scanning.
-- 🚀 **Goal:** Master Red Team methodologies and pursue graduate studies in the Germany. 
+- 🇹🇭 Based in Maha Sarakham, Thailand
+- 🎓 Computer Science student at Mahasarakham University
+- 🛡️ **Focus:** Offensive security, penetration testing, wargames, and network reconnaissance with Nmap
+- 🚀 **Goal:** Build strong red team fundamentals and pursue graduate studies in Germany
 <br>
-<img src="https://komarev.com/ghpvc/?username=Sinxularity&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=D0R07HY&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 ---
 
 ## 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,linux,bash,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,github,docker" />
 </p>
 
 ---
@@ -45,12 +48,12 @@ ______ ___________ _____  _______   ___   __
 
 ## 🌌 Philosophy & Mindset
 > **The Cosmic Perspective:** In a vast universe, our curiosity and problem-solving give us purpose.  
-> **Analytical Thinking:** Always questioning assumptions and watching out for cognitive biases during vulnerability analysis.  
+> **Analytical Thinking:** Question assumptions, test methodically, and watch for cognitive bias during vulnerability analysis.  
 
 ---
 
 ## ⚔️ In The Security Era
 > Security is never absolute.  
-> Understanding how systems break is the only way to truly understand how they work.
+> Understanding how systems break is one of the best ways to understand how they truly work.
 
 ---
